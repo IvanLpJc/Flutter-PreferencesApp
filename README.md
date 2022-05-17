@@ -1,4 +1,4 @@
-# preferences_app
+# Preferences_app
 
 A new Flutter project.
 
